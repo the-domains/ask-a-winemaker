@@ -1,0 +1,28 @@
+name: Ask a Winemaker
+favicon: null
+layout_spectrum: 0.5533603944350034
+typography_spectrum: 0.5696287909522653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9275279499124736
+  lightness: 0.7455189090687782
+  saturation: 0.03439998161047697
+  rhythmicContrast: 0.6768469244707376
+purpose: []
